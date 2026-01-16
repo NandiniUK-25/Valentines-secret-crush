@@ -1,0 +1,19 @@
+Looks like you came into a strange looking file?? Whats all this weird language.. oh wait, its just my cheesy ciphers :)
+
+VGhlIHdvcmQgY29tZXMgYmVmb3JlIHRoZSBjb3VudA==
+
+U3dlZXQgd29yZCwgc3dlZXRlciBudW1iZXI=
+
+UmVhbCBsb3ZlIGlzIGxpa2UgYSBzdHJvbmcgcGFzc3dvcmTigKYgY29tcGxpY2F0ZWQsIGJ1dCB3b3J0aCBpdC4=
+
+TXkgZmF2b3JpdGUgd29yZDogaGVhcnRzCg==
+
+TXkgaGVhcnTigJlzIGVuY3J5cHRlZCwgYnV0IG15IHBhc3N3b3JkIGRlZmluaXRlbHkgaXNu4oCZdC4=
+
+Q3VwaWQgc2FpZCDigJh1c2Ugc3ltYm9scyzigJkgYnV0IEkgb25seSBQ3VwaWQgc2FpZCDigJh1c2Ugc3ltYm9scyzigJkgYnV0IEkgb25seSBsaXN0ZW5lZCB0byB0aGUgcGFydCBhYm91dCBoZWFydHMgYW5kIHJvc2VzsaXN0ZW5lZCB0byB0aGUgcGFydCBhYm91dCBoZWFydHMu
+
+TXkgcGFzc3dvcmQgaXMgYSBsaXR0bGUgY2hlZXN5
+
+aSBqdXN0IGxvdmUgYSBET1pFTiByb3Nlcy4uLiA8Mw==
+
+TG92ZSBsZXR0ZXJzIGZhZGUsIGJ1dCB0ZXJyaWJsZSBwYXNzd29yZHMgbGFzdCBmb3JldmVy
