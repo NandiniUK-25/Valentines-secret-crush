@@ -2,7 +2,7 @@ const express = require('express');
 const path = require('path');
 const app = express();
 
-const FLAG = 'flag{l0ve_l3tters_ar3_cut3_pAssw0rd5}';
+const FLAG = 'flag{you_are_my_crush}';
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, 'public'))); // serve files from public/
